@@ -1,7 +1,5 @@
 # Sara Laloux
 
-Hello everyone!
-Born with a mouse in my hand and straight out of the geek generation, I eat pixels every day! Passionate about graphic arts, anything inspires me and makes me want to create.
 
 Currently in training at [beCode](https://github.com/becodeorg) Charleroi I am looking to push my abilities to become a great frontEnd developper 
 
